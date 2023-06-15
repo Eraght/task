@@ -81,4 +81,5 @@ for task in tasks:
 
 task_list.remove_task(0)
 
+
 print(len(task_list))
